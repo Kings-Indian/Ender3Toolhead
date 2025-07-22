@@ -39,3 +39,7 @@ ill start by designing the beginnings and ends of the ducts. I will then likely 
 
 optimally I have the same volume as the input all the way/2 since I split it. 9.5^2*pi/2=#ductz* the y length. <img width="402" height="362" alt="image" src="https://github.com/user-attachments/assets/4fd5f913-8032-48b3-aa5b-562dce246fcb" />
 
+Time spent: 3.5h
+<img width="686" height="604" alt="image" src="https://github.com/user-attachments/assets/f45b26ce-ff07-4d07-9c5f-fd03dfe04cef" />
+Having a lot of t rouble with lofts 😭this is the best I got it
+time spent: 5h
