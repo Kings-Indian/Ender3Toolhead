@@ -43,3 +43,16 @@ Time spent: 3.5h
 <img width="686" height="604" alt="image" src="https://github.com/user-attachments/assets/f45b26ce-ff07-4d07-9c5f-fd03dfe04cef" />
 Having a lot of t rouble with lofts 😭this is the best I got it
 time spent: 5h
+7/25
+After a bajllion iterations this is what I made 😭
+<img width="1002" height="549" alt="image" src="https://github.com/user-attachments/assets/f7211e40-4738-4038-b326-9f7a8fb3b2e7" />
+Time spent: 6h
+7/26
+Ill att the BTT Microprobe now 
+<img width="1792" height="845" alt="image" src="https://github.com/user-attachments/assets/b3bf0840-8d18-442f-b212-3545e2611e52" />
+<img width="2041" height="1062" alt="image" src="https://github.com/user-attachments/assets/d57db7a5-277a-4c2a-8294-0325918921b6" />
+
+Maximum length - range/2=
+28.70000-2mm-26.7 
+
+
