@@ -55,4 +55,21 @@ Ill att the BTT Microprobe now
 Maximum length - range/2=
 28.70000-2mm-26.7 
 
+7/28/2025
+
+I cleaned up everything :) 
+
+Final assembly:
+
+<img width="914" height="1092" alt="image" src="https://github.com/user-attachments/assets/6da7b77f-af21-4b13-a57d-4405525b0bbb" />
+<img width="910" height="840" alt="image" src="https://github.com/user-attachments/assets/d00a86af-5ecb-4086-ad92-66310683a2c7" />
+Cpap fan mount:
+<img width="910" height="840" alt="image" src="https://github.com/user-attachments/assets/244d11f5-6b42-495b-b590-fa4d7b654d85" />
+<img width="918" height="831" alt="image" src="https://github.com/user-attachments/assets/21010d5c-06ff-4260-bc57-a8f18eaed4ad" />
+
+mounted:
+
+<img width="549" height="789" alt="image" src="https://github.com/user-attachments/assets/3ceb7409-bdbd-4550-a30b-d53acaf30d4a" />
+
+Ill also 
 
