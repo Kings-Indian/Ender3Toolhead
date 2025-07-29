@@ -71,5 +71,11 @@ mounted:
 
 <img width="549" height="789" alt="image" src="https://github.com/user-attachments/assets/3ceb7409-bdbd-4550-a30b-d53acaf30d4a" />
 
-Ill also 
+7/29/25
+Ill also add a btt skr mini e3 v3.0. I actually cadded this in not expecting this too fit in the default Ender 3 case obviously since its a different board. Not only do the cables allign perfectly, the mounting holes even fit the board
+<img width="667" height="1029" alt="image" src="https://github.com/user-attachments/assets/19e2318e-bcae-47a0-b229-161b97197638" />
+<img width="1191" height="700" alt="image" src="https://github.com/user-attachments/assets/b4dfa217-081c-4b1a-b2eb-b2b9d713f352" />
+I honestly cant find a single improvement I can do with a new case. 
+
+Time Spent:0.5 hr
 
