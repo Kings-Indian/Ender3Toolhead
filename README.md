@@ -1,7 +1,7 @@
 # Ender3Toolhead - Advanced Linear Rail Toolhead Upgrade
 
 ## Project Description
-This is a toolhead for an Ender 3 :D I used a Lancer Long hotend and a cpap fan for part cooling :) I also use a 3d printed ProtoXtTruder for this. 
+This is a toolhead for an Ender 3 :D I used a Lancer Long hotend and a cpap fan for part cooling :) I also use a 3d printed ProtoXtTruder for this and a BTT Microprobe. 
 
 ## Why I Made This Project
 I wanted to create a high-performance toolhead since Ender 3 toolhead sucks.
