@@ -8,8 +8,8 @@ I wanted to create a high-performance toolhead since Ender 3 toolhead sucks.
 
 
 ### 3D Model Screenshots
-![Final Assembly Front View](https://github.com/user-attachments/assets/6da7b77f-af21-4b13-a57d-4405525b0bbb)
-![Final Assembly Side View](https://github.com/user-attachments/assets/d00a86af-5ecb-4086-ad92-66310683a2c7)
+<img width="523" height="739" alt="image" src="https://github.com/user-attachments/assets/be1f741b-4237-4477-9ae9-3dfa3f210deb" />
+![happy](https://github.com/user-attachments/assets/d00a86af-5ecb-4086-ad92-66310683a2c7)
 
 ## Bill of Materials (BOM)
 
